@@ -1,6 +1,7 @@
 .idea
 *.log
 /data
+/envs
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
